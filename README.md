@@ -23,3 +23,8 @@ Local development
 5. Set any unset environment variables that you'd like in that file. `SLACK_API_KEY` is required for the server to run.
 6. Run `node server.js`.
 7. Navigate to the local server in your web browser.
+
+License
+-------
+
+Copyright © 2016 DxE Tech Working Group and licensed under the GNU General Public License v3.0. See the LICENSE file for the complete license.
