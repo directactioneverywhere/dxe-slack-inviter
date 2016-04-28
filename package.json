@@ -1,0 +1,14 @@
+{
+  "name": "dxe-slack-inviter",
+  "version": "1.0.0",
+  "description": "A small server that invites people to Slack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DxE Tech",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "slackin": "^0.8.3"
+  }
+}
