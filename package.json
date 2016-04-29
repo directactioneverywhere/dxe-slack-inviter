@@ -9,6 +9,6 @@
   "author": "DxE Tech",
   "license": "GPL-3.0",
   "dependencies": {
-    "slackin": "^0.8.3"
+    "slackin": "rauchg/slackin#3f83e63"
   }
 }
