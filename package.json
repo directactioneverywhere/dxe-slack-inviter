@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "DxE Tech",
+  "author": "DxE Tech Working Group",
   "license": "GPL-3.0",
   "dependencies": {
     "slackin": "rauchg/slackin#3f83e63"
