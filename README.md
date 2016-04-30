@@ -23,9 +23,9 @@ Local development
 1. Ensure that Node is installed on your computer.
 2. Clone this repo and navigate to the project directory in your terminal.
 3. Run `npm install`.
-4. Copy the file `env.example.js` into `env.js`.
+4. Copy the file `lib/env.example.js` into `lib/env.js`.
 5. Set any unset environment variables that you'd like in that file. `SLACK_API_KEY` is required for the server to run. You can generate a [test key](https://api.slack.com/web) for this.
-6. Run `node server.js`.
+6. Run `node lib/server.js`.
 7. Navigate to the local server in your web browser.
 
 License
