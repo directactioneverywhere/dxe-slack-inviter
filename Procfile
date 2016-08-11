@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/forever lib/server.js
+web: npm run start
